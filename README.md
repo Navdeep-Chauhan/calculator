@@ -1,4 +1,4 @@
 # calculator
 Basic Program of HTML , CSS, JavaScript
 <br>
-Author:Navdeep Singh Chauhan
+Author:Navdeep Singh Chauhan(Calculator)
